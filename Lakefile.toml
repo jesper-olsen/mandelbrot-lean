@@ -1,0 +1,6 @@
+name = "mandelbrot"
+defaultTargets = ["mandelbrot"]
+
+[[lean_exe]]
+name = "mandelbrot"
+root = "Mandelbrot"
